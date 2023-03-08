@@ -9,6 +9,7 @@ App Services,Containers,Health Bot,SQL database,SQL Server
 # Links
 Webapp - https://sreyaep.azurewebsites.net/
 Container - https://myhospital.blob.core.windows.net/sreyaep/Screenshot_20230308_113847_Chrome.jpg
+Database Server - https://myhospital.blob.core.windows.net/sreyaep/Screenshot_20230308_113847_Chrome.jpg
 
 # Images
 ![Screenshot_20230308_141212_Chrome](https://user-images.githubusercontent.com/117088162/223669813-e38a6230-512c-4efe-b004-25df00e890dd.jpg)
