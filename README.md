@@ -29,6 +29,8 @@ Container - https://myhospital.blob.core.windows.net/sreyaep/Screenshot_20230308
 
 Database Server - sreyaep.database.windows.net
 
+Demo video - https://youtu.be/OC_MbZ59-ds
+
 # Images
 ![Screenshot_20230308_141212_Chrome](https://user-images.githubusercontent.com/117088162/223669813-e38a6230-512c-4efe-b004-25df00e890dd.jpg)
 ![Screenshot_20230308_141229_Chrome](https://user-images.githubusercontent.com/117088162/223669823-c4a4ed91-93f4-4eb3-bc47-e5d85b495733.jpg)
