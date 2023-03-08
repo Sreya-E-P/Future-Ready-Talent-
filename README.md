@@ -1,7 +1,13 @@
 # Future-Ready-Talent-
 This is my project for Future Ready Talent Internship 
 
+# Resources Used
+App Services,Containers,Health Bot,SQL database,SQL Server
+# Links
+https://sreyaep.azurewebsites.net/
 
+
+# Images
 ![Screenshot_20230308_141212_Chrome](https://user-images.githubusercontent.com/117088162/223669813-e38a6230-512c-4efe-b004-25df00e890dd.jpg)
 ![Screenshot_20230308_141229_Chrome](https://user-images.githubusercontent.com/117088162/223669823-c4a4ed91-93f4-4eb3-bc47-e5d85b495733.jpg)
 ![Screenshot_20230308_141248_Chrome](https://user-images.githubusercontent.com/117088162/223669829-b164350e-93c2-4b4f-b177-9dbfc30aa80c.jpg)
