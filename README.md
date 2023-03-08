@@ -1,7 +1,7 @@
 # Future-Ready-Talent-
 This is my project for Future Ready Talent Internship 
 
-https://user-images.githubusercontent.com/117088162/223669278-00b81c09-1ec3-4b28-a2f5-d3df945e24f9.jpg
+
 ![Screenshot_20230308_141212_Chrome](https://user-images.githubusercontent.com/117088162/223669813-e38a6230-512c-4efe-b004-25df00e890dd.jpg)
 ![Screenshot_20230308_141229_Chrome](https://user-images.githubusercontent.com/117088162/223669823-c4a4ed91-93f4-4eb3-bc47-e5d85b495733.jpg)
 ![Screenshot_20230308_141248_Chrome](https://user-images.githubusercontent.com/117088162/223669829-b164350e-93c2-4b4f-b177-9dbfc30aa80c.jpg)
@@ -17,3 +17,5 @@ https://user-images.githubusercontent.com/117088162/223669278-00b81c09-1ec3-4b28
 ![Screenshot_20230308_142620_Chrome](https://user-images.githubusercontent.com/117088162/223669906-576544ba-e841-42ba-a935-89edd8c54702.jpg)
 ![Screenshot_20230308_142644_Chrome](https://user-images.githubusercontent.com/117088162/223669909-bfd4fa58-eefb-4a85-b42e-2bc3071a9f64.jpg)
 ![Screenshot_20230308_142652_Chrome](https://user-images.githubusercontent.com/117088162/223669916-ed8e6ac8-2704-4b7c-abe0-7874a668639e.jpg)
+![Screenshot_20230308_141543_Chrome](https://user-images.githubusercontent.com/117088162/223674235-587a0510-7fe8-4278-ad03-05d21daf2add.jpg)
+![Screenshot_20230308_145345_Chrome](https://user-images.githubusercontent.com/117088162/223674251-2bed5213-8f22-413d-a2e8-25db2efc3508.jpg)
