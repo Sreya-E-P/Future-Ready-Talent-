@@ -7,10 +7,16 @@ This Project is very easy to implement.I have created a website just from an Ima
 # FAQ regarding this Project
 Q Why appservices?
 Ans-Inorder to create a mini hospital website within short span of time.
+
+
 Q Why Container?
 Ans-To access image using which I have to create a website.
+
+
 Q Why HealthBot?
 Ans-Inorder to console users who are visiting this website and to provide them relief
+
+
 Q Why SQL database and Server?
 Ans-To store datas
 
