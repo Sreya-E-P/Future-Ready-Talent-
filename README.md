@@ -4,7 +4,7 @@ This is my project for Future Ready Talent Internship
 # Abstract 
 This Project is very easy to implement.I have created a website just from an Image.This is a hospital website.It is unresponsive. This Idea can be used when we want a draft overview of a website Or creating an unresponsive website.I have created a website using azure app services.Added my image onto it by using container modified existing code.Added a healthbot in it which is trained to handle many scenarios.Created a SQL database and server for this website
 
-#FAQ regarding this Project
+# FAQ regarding this Project
 Q Why appservices?
 Ans-Inorder to create a mini hospital website within short span of time.
 Q Why Container?
