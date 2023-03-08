@@ -1,2 +1,2 @@
 # Future-Ready-Talent-
-This is my project dor Future Ready Talent Internship 
+This is my project for Future Ready Talent Internship 
